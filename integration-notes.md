@@ -43,6 +43,7 @@ Pretty standard JWT setup. In the demo it just takes an email and generates a to
                        │    Contacts)    │
                        └─────────────────┘
 ```
+<img width="1970" height="868" alt="image" src="https://github.com/user-attachments/assets/95c6531d-5ded-4415-ba67-974d5bcea52f" />
 
 The tricky part is translating between formats. AcmeCRM uses `acme_first_name`, we use `first_name`, etc. I built this into the Contact model:
 
