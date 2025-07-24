@@ -3,6 +3,7 @@
 ## What I Built
 
 Built a Rails API that shows how Linq could integrate with a customer's CRM (using AcmeCRM as an example). The basic idea is: someone scans a QR code at an event, contact gets normalized and pushed to their CRM automatically.
+<img width="1660" height="1560" alt="image" src="https://github.com/user-attachments/assets/927ec03d-af82-43cb-b89d-002c51daaef5" />
 
 ## Architecture Decisions
 ## Technical Assumptions
