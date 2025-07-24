@@ -1,7 +1,8 @@
 # Linq CRM Integration Demo
 
-I built this to show how Linq could integrate with a customer's CRM system. Uses Rails because it's fast to build APIs with and most people are comfortable with it.
-
+I built this to show how Linq could integrate with a customer's CRM system. Used Rails because it's fast to build APIs with and most people are comfortable with it.
+##Video Presentation Demo
+Link: https://www.loom.com/share/a4e27c8966ae471aa1c591d8e738bb03?sid=94859d58-4f7d-4f00-993d-e510e08f63e0
 ## What it does
 
 Someone scans a QR code at an event → contact gets saved to your database → pushes to their CRM automatically. Pretty straightforward.
